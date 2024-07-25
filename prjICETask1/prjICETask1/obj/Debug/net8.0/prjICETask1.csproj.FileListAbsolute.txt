@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\bin\Debug\net8.0\prjICETask1.exe
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\bin\Debug\net8.0\prjICETask1.deps.json
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\bin\Debug\net8.0\prjICETask1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\bin\Debug\net8.0\prjICETask1.dll
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\bin\Debug\net8.0\prjICETask1.pdb
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.dll
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\refint\prjICETask1.dll
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.pdb
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\prjICETask1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\prjICETask1\prjICETask1\obj\Debug\net8.0\ref\prjICETask1.dll
