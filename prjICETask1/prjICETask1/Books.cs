@@ -58,11 +58,11 @@ namespace prjICETask1
         {
             get
             {
-                if (attributes.ToLower().Equals("bookID"))
+                if (attributes.ToLower().Equals("bookid"))
                     return this.bookID;
-                else if (attributes.ToLower().Equals("bookTitle"))
+                else if (attributes.ToLower().Equals("booktitle"))
                     return this.bookTitle;
-                else if (attributes.ToLower().Equals("bookAuthor"))
+                else if (attributes.ToLower().Equals("bookauthor"))
                     return this.bookAuthor;
                 else if (attributes.ToLower().Equals("price"))
                     return this.price;
@@ -74,7 +74,7 @@ namespace prjICETask1
                 if (attributes.ToLower().Equals("bookID"))
                     this.bookID = (double)value;
 
-                else if (attributes.ToLower().Equals("bookTitle"))
+                else if (attributes.ToLower().Equals("booTtitle"))
                     this.bookTitle = (string)value;
 
                 else if (attributes.ToLower().Equals("bookAuthor"))

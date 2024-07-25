@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ri5pYeAh/X7A785H4cc7gx6gHWiqtlnT8tgZzTHdi3QdNCBIixOfx179IOHWK6Gg1z0M9MYSLN6/EX8Ls7S51Q==",
+  "dgSpecHash": "SqHwNLn5YAE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\prjICETask1\\prjICETask1Tests\\prjICETask1Tests.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\2024 backup vm\\Indexes_GeorgeCollab\\PROG6212---ICE-Task-1\\prjICETask1\\prjICETask1Tests\\prjICETask1Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
